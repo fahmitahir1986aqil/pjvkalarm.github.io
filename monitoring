@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Monitoring System</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1>Monitoring System</h1>
+    <div id="data-display"></div>
+    <button onclick="checkAlert()">Check Alert</button>
+</body>
+</html>
